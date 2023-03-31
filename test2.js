@@ -1,2 +1,2 @@
 export var add = "14 brahmpol marg";
-export var state = "Rajas";
+export var state = "Rajasthan";
